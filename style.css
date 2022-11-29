@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: rgb(206, 202, 202);
+}
+.container{
+    display: flex;
+}
+.about{
+    padding: 10px;
+    margin-left: 20px;
+}
+.countown-box{
+    display: flex;
+}
+.sngle-h4{
+    margin: 10px;
+    padding: 10px;
+    background-color: grey;
+    color: white;
+}
